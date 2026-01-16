@@ -10,5 +10,3 @@ dependencies:
   - numpy=1.24.3
   - xarray=2024.10.0
   - netcdf4=1.7.4
-  - libgdal-netcdf=3.12.1
-  - libnetcdf=4.9.3
